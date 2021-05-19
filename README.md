@@ -1,5 +1,5 @@
 # todo-list
-Pequena aplicação de maração de tarefas, ou famoso TODO list.  Para treinar um pouco mais sobre manipulação do estado no React
+Pequena aplicação de marcação de tarefas, ou famoso TODO list.  Para treinar um pouco mais sobre manipulação do estado no React
 
 
 ## O que faz esse app ?
